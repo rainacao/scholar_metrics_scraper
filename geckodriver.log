@@ -1,0 +1,14 @@
+1691797107354	geckodriver	INFO	Listening on 127.0.0.1:52022
+1691797108089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/47/6bm96nxd0ks5x370bsvkpghh0000gn/T/rust_mozprofilexkNrW4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691797109044	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1691797109388	Marionette	INFO	Listening on port 52046
+WebDriver BiDi listening on ws://127.0.0.1:52023
+Read port: 52046
+1691797109544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52023/devtools/browser/dcb3826e-652e-4f11-bc8c-0220ac702ee6
+1691797111130	Marionette	INFO	Stopped listening on port 52046
