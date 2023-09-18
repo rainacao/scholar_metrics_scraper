@@ -1,0 +1,13 @@
+Name,Coauthors,source,target,value
+Wellington Lab,"{""Cembrowski Lab"":1, ""Rossi Lab"":1, ""MacVicar Lab"":1, ""Cheung Lab"":1}",1,2,1
+Cembrowski Lab,"{""Wellington Lab"":1, ""MacVicar Lab"":1, ""Miller Lab"":1}",2,1,1
+Cheung Lab,"{""Wellington Lab"":1}",3,1,1
+Johnson Lab,"{""Underhill Lab"":1}",4,12,1
+Madhav Lab,"{""Madhav Lab"":1}",5,5,1
+MacVicar Lab,"{""Wellington Lab"":1, ""Cembrowski Lab"":1, ""Miller Lab"":1, ""Nygaard Lab"":1}",6,1,1
+Miller Lab,"{""Cembrowski Lab"":1, ""Rossi Lab"":1}",7,2,1
+Nygaard Lab,"{""MacVicar Lab"":1}",8,6,1
+Penninger Lab,"{""Penninger Lab"":1}",9,9,1
+Rossi Lab,"{""Wellington Lab"":1, ""Miller Lab"":1}",10,1,1
+Shakiba Lab,"{""Shakiba Lab"":1}",11,11,1
+Underhill Lab,"{""Johnson Lab"":1}",12,4,1
