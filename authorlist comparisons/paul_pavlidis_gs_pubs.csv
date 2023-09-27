@@ -1,246 +1,246 @@
-,Name,Publications,Pub Links
-0,Paul Pavlidis,Coexpression analysis of human genes across many microarray data sets,
-1,Paul Pavlidis,Molecular and functional heterogeneity of hyperpolarization-activated pacemaker channels in the mouse CNS,
-2,Paul Pavlidis,Altered brain microRNA biogenesis contributes to phenotypic deficits in a 22q11-deletion mouse model,
-3,Paul Pavlidis,Zac1 regulates an imprinted gene network critically involved in the control of embryonic growth,
-4,Paul Pavlidis,Gene functional classification from heterogeneous data,
-5,Paul Pavlidis,Matrix2png: a utility for visualizing matrix data,
-6,Paul Pavlidis,An expanded evaluation of protein function prediction methods shows an improvement in accuracy,
-7,Paul Pavlidis,De novo mutations in schizophrenia implicate chromatin remodeling and support a genetic overlap with autism and intellectual disability,
-8,Paul Pavlidis,ErmineJ: tool for functional analysis of gene expression data sets,
-9,Paul Pavlidis,Learning gene functional classifications from multiple data types,
-10,Paul Pavlidis,Analysis of strain and regional variation in gene expression in mouse brain,
-11,Paul Pavlidis,Activation of MAPK pathways links LMNA mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy,
-12,Paul Pavlidis,Experimental comparison and cross-validation of the Affymetrix and Illumina gene expression analysis platforms,
-13,Paul Pavlidis,Inducible enhancement of memory storage and synaptic plasticity in transgenic mice expressing an inhibitor of ATF4 (CREB-2) and C/EBP proteins,
-14,Paul Pavlidis,miR-1202 is a primate-specific and brain-enriched microRNA involved in major depression and antidepressant treatment,
-15,Paul Pavlidis,Using the gene ontology for microarray data mining: a comparison of methods and application to age effects in human prefrontal cortex,
-16,Paul Pavlidis,Transcriptional and behavioral interaction between 22q11. 2 orthologs modulates schizophrenia-related phenotypes in mice,
-17,Paul Pavlidis,Hierarchical model of gene regulation by transforming growth factor β,
-18,Paul Pavlidis,Single-nucleus transcriptomics of the prefrontal cortex in major depressive disorder implicates oligodendrocyte precursor cells and excitatory neurons,
-19,Paul Pavlidis,“Guilt by association” is the exception rather than the rule in gene networks,
-20,Paul Pavlidis,Molecular aging in human prefrontal cortex is selective and continuous throughout adult life,
-21,Paul Pavlidis,Classification and subtype prediction of adult soft tissue sarcoma by functional genomics,
-22,Paul Pavlidis,Gene ontology term overlap as a measure of gene functional similarity,
-23,Paul Pavlidis,Genomic signatures predict migration and spawning failure in wild Canadian salmon,
-24,Paul Pavlidis,"The Drosophila easily shocked gene: a mutation in a phospholipid synthetic pathway causes seizure, neuronal failure, and paralysis",
-25,Paul Pavlidis,Pair recordings reveal all-silent synaptic connections and the postsynaptic expression of long-term potentiation,
-26,Paul Pavlidis,The Impact of Multifunctional Genes on,
-27,Paul Pavlidis,Classification of clear-cell sarcoma as a subtype of melanoma by genomic profiling,
-28,Paul Pavlidis,Subtype‐specific peripheral blood gene expression profiles in recent‐onset juvenile idiopathic arthritis,
-29,Paul Pavlidis,The effect of replication on gene expression microarray experiments,
-30,Paul Pavlidis,Can we predict protein from mRNA levels?,
-31,Paul Pavlidis,Transcriptomes in healthy and diseased gingival tissues,
-32,Paul Pavlidis,Using ANOVA for gene selection from microarray studies of the nervous system,
-33,Paul Pavlidis,Altered hippocampal transcript profile accompanies an age-related spatial memory deficit in mice,
-34,Paul Pavlidis,Histone deacetylase inhibition elicits an evolutionarily conserved self-renewal program in embryonic stem cells,
-35,Paul Pavlidis,Diverse epigenetic strategies interact to control epidermal differentiation,
-36,Paul Pavlidis,Support vector machine classification on the web,
-37,Paul Pavlidis,Exploring gene expression data with class scores,
-38,Paul Pavlidis,Network analyses reveal pervasive functional regulation between proteases in the human protease web,
-39,Paul Pavlidis,Akt1 deficiency affects neuronal morphology and predisposes to abnormalities in prefrontal cortex functioning,
-40,Paul Pavlidis,Cross-laboratory analysis of brain cell type transcriptomes with applications to interpretation of bulk tissue data,
-41,Paul Pavlidis,DNA methylation signature of human fetal alcohol spectrum disorder,
-42,Paul Pavlidis,Activation of MAPK in hearts of EMD null mice: similarities between mouse models of X-linked and autosomal dominant Emery–Dreifuss muscular dystrophy,
-43,Paul Pavlidis,Seizures and failures in the giant fiber pathway of Drosophila bang-sensitive paralytic mutants,
-44,Paul Pavlidis,Relationships between gene expression and brain wiring in the adult rodent brain,
-45,Paul Pavlidis,Relationships between gene expression and brain wiring in the adult rodent brain,
-46,Paul Pavlidis,"Gemma: a resource for the reuse, sharing and meta-analysis of expression profiling data",
-47,Paul Pavlidis,A Mendelian locus on chromosome 16 determines susceptibility to doxorubicin nephropathy in the mouse,
-48,Paul Pavlidis,Gene expression profiling of depression and suicide in human prefrontal cortex,
-49,Paul Pavlidis,Transcriptomic responses to high water temperature in two species of P acific salmon,
-50,Paul Pavlidis,Gene function analysis in complex data sets using ErmineJ,
-51,Paul Pavlidis,Cutting edge: STAT6 serves as a positive and negative regulator of gene expression in IL-4-stimulated B lymphocytes,
-52,Paul Pavlidis,Transcriptional changes in Huntington disease identified using genome-wide expression profiling and cross-platform analysis,
-53,Paul Pavlidis,Proteome TopFIND 3.0 with TopFINDer and PathFINDer: database and analysis tools for the association of protein termini to pre-and post-translational events,
-54,Paul Pavlidis,Consequences of high temperatures and premature mortality on the transcriptome and blood physiology of wild adult sockeye salmon (Oncorhynchus nerka),
-55,Paul Pavlidis,Gingival tissue transcriptomes identify distinct periodontitis phenotypes,
-56,Paul Pavlidis,Genome-wide expression profiling of schizophrenia using a large combined cohort,
-57,Paul Pavlidis,Predictability of human differential gene expression,
-58,Paul Pavlidis,Gene expression in juvenile arthritis and spondyloarthropathy: pro-angiogenic ELR+ chemokine genes relate to course of arthritis,
-59,Paul Pavlidis,PROMOTER RE ION-ASED CLASSIFICATION OF ENES,
-60,Paul Pavlidis,Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in subjects with bipolar disorder and schizophrenia,
-61,Paul Pavlidis,Meta-analysis of human methylomes reveals stably methylated sequences surrounding CpG islands associated with high gene expression,
-62,Paul Pavlidis,Molecular differences between chronic and aggressive periodontitis,
-63,Paul Pavlidis,Subgingival bacterial colonization profiles correlate with gingival tissue gene expression,
-64,Paul Pavlidis,β-Catenin/TCF/Lef controls a differentiation-associated transcriptional program in renal epithelial progenitors,
-65,Paul Pavlidis,The role of indirect connections in gene networks in predicting function,
-66,Paul Pavlidis,DNA methylation as a predictor of fetal alcohol spectrum disorder,
-67,Paul Pavlidis,Synaptic transmission in pair recordings from CA3 pyramidal cells in organotypic culture,
-68,Paul Pavlidis,Wikidata as a semantic framework for the Gene Wiki initiative,
-69,Paul Pavlidis,Bioinformatic analysis of autism positional candidate genes using biological databases and computational gene network prediction,
-70,Paul Pavlidis,Gene expression signatures in polyarticular juvenile idiopathic arthritis demonstrate disease heterogeneity and offer a molecular classification of disease subsets,
-71,Paul Pavlidis,Sex genes for genomic analysis in human brain: internal controls for comparison of probe level data extraction.,
-72,Paul Pavlidis,Bias tradeoffs in the creation and analysis of protein–protein interaction networks,
-73,Paul Pavlidis,An ancestral haplotype defines susceptibility to doxorubicin nephropathy in the laboratory mouse,
-74,Paul Pavlidis,"Assessing identity, redundancy and confounds in Gene Ontology annotations over time",
-75,Paul Pavlidis,EGAD: ultra-fast functional analysis of gene networks,
-76,Paul Pavlidis,Understanding the impact of 1q21. 1 copy number variant,
-77,Paul Pavlidis,Meta-analysis of gene coexpression networks in the post-mortem prefrontal cortex of patients with schizophrenia and unaffected controls,
-78,Paul Pavlidis,Periodontal therapy alters gene expression of peripheral blood monocytes,
-79,Paul Pavlidis,C-terminal truncation of IFN-γ inhibits proinflammatory macrophage responses and is deficient in autoimmune disease,
-80,Paul Pavlidis,"FTO, obesity and the adolescent brain",
-81,Paul Pavlidis,Transcriptomic correlates of neuron electrophysiological diversity,
-82,Paul Pavlidis,Characterizing the state of the art in the computational assignment of gene function: lessons from the first critical assessment of functional annotation (CAFA),
-83,Paul Pavlidis,Profiling placental and fetal DNA methylation in human neural tube defects,
-84,Paul Pavlidis,A high-throughput study of gene expression in preterm labor with a subtractive microarray approach,
-85,Paul Pavlidis,Presynaptic protein kinase activity supports long-term potentiation at synapses between individual hippocampal neurons,
-86,Paul Pavlidis,Meta‐analysis of gene expression in autism spectrum disorder,
-87,Paul Pavlidis,Decoding unattended fearful faces with whole-brain correlations: an approach to identify condition-dependent large-scale functional connectivity,
-88,Paul Pavlidis,Decoding unattended fearful faces with whole-brain correlations: an approach to identify condition-dependent large-scale functional connectivity,
-89,Paul Pavlidis,Systematic phenomics analysis of autism-associated genes reveals parallel networks underlying reversible impairments in habituation,
-90,Paul Pavlidis,KCTD8 Gene and Brain Growth in Adverse Intrauterine Environment: A Genome-wide Association Study,
-91,Paul Pavlidis,Gene expression signatures in chronic and aggressive periodontitis: a pilot study,
-92,Paul Pavlidis,Transcriptome sequencing of the anterior cingulate in bipolar disorder: dysregulation of G protein-coupled receptors,
-93,Paul Pavlidis,The path of no return—Truncated protein N‐termini and current ignorance of their genesis,
-94,Paul Pavlidis,Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms.,
-95,Paul Pavlidis,Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: a potential treatment target?,
-96,Paul Pavlidis,"Cortical functional connectivity decodes subconscious, task-irrelevant threat-related emotion processing",
-97,Paul Pavlidis,Differential amplification of gene expression in lens cell lines conditioned to survive peroxide stress,
-98,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies,
-99,Paul Pavlidis,Granulocyte chemotactic protein 2 (gcp‐2/cxcl6) complements interleukin‐8 in periodontal disease,
-100,Paul Pavlidis,Using predictive specificity to determine when gene set analysis is biologically meaningful,
-101,Paul Pavlidis,Systematic evaluation of isoform function in literature reports of alternative splicing,
-102,Paul Pavlidis,Large-scale analysis of gene expression and connectivity in the rodent brain: insights through data integration,
-103,Paul Pavlidis,Large-Scale Analysis of Gene Expression and Connectivity in the Rodent Brain: Insights through Data Integration,
-104,Paul Pavlidis,Prenatal alcohol exposure alters steady‐state and activated gene expression in the adult rat brain,
-105,Paul Pavlidis,miRNA and miRNA target genes in copy number variations occurring in individuals with intellectual disability,
-106,Paul Pavlidis,Multi-model functionalization of disease-associated PTEN missense mutations identifies multiple molecular mechanisms underlying protein dysfunction,
-107,Paul Pavlidis,Neuron-enriched gene expression patterns are regionally anti-correlated with oligodendrocyte-enriched patterns in the adult mouse and human brain,
-108,Paul Pavlidis,Outcome of array CGH analysis for 255 subjects with intellectual disability and search for candidate genes using bioinformatics,
-109,Paul Pavlidis,A cross-laboratory comparison of expression profiling data from normal human postmortem brain,
-110,Paul Pavlidis,The Canadian rare diseases models and mechanisms (RDMM) network: connecting understudied genes to model organisms,
-111,Paul Pavlidis,Informatics in neuroscience,
-112,Paul Pavlidis,Automated recognition of brain region mentions in neuroscience literature,
-113,Paul Pavlidis,Automated recognition of brain region mentions in neuroscience literature,
-114,Paul Pavlidis,Untangling the effects of cellular composition on coexpression analysis,
-115,Paul Pavlidis,Assessing transcriptome quality in patch-seq datasets,
-116,Paul Pavlidis,Application and evaluation of automated methods to extract neuroanatomical connectivity statements from free text,
-117,Paul Pavlidis,Evaluation of connectivity map shows limited reproducibility in drug repositioning,
-118,Paul Pavlidis,Progress and challenges in the computational prediction of gene function using networks,
-119,Paul Pavlidis,Text mining for neuroanatomy using WhiteText with an updated corpus and a new web application,
-120,Paul Pavlidis,Transcriptomic correlates of electrophysiological and morphological diversity within and across excitatory and inhibitory neuron classes,
-121,Paul Pavlidis,Meta‐Analysis of Gene Expression Patterns in Animal Models of Prenatal Alcohol Exposure Suggests Role for Protein Synthesis Inhibition and Chromatin Remodeling,
-122,Paul Pavlidis,Pitfalls in the application of gene-set analysis to genetics studies,
-123,Paul Pavlidis,Neurocarta: aggregating and sharing disease-gene relations for the neurosciences,
-124,Paul Pavlidis,A methodology for the analysis of differential coexpression across the human lifespan,
-125,Paul Pavlidis,Differential coexpression in human tissues and the confounding effect of mean expression levels,
-126,Paul Pavlidis,Progress and challenges in the computational prediction of gene function using networks: 2012-2013 update,
-127,Paul Pavlidis,Sharing and reusing gene expression profiling data in neuroscience,
-128,Paul Pavlidis,VariCarta: A comprehensive database of harmonized genomic variants found in autism spectrum disorder sequencing studies,
-129,Paul Pavlidis,Copy number variants (CNVs) analysis in a deeply phenotyped cohort of individuals with intellectual disability (ID),
-130,Paul Pavlidis,Whole genome sequencing and variant discovery in the ASPIRE autism spectrum disorder cohort,
-131,Paul Pavlidis,Using text mining to link journal articles to neuroanatomical databases,
-132,Paul Pavlidis,Modeling sources of interlaboratory variability in electrophysiological properties of mammalian neurons,
-133,Paul Pavlidis,Gist support vector machine and kernel principal components analysis software toolkit,
-134,Paul Pavlidis,Combining microarray expression data and phylogenetic profiles to learn gene functional categories using support vector machines,
-135,Paul Pavlidis,Curation of over 10 000 transcriptomic studies to enable data reuse,
-136,Paul Pavlidis,Unpacking the heterogeneity of cognitive functioning in children and adolescents with fetal alcohol spectrum disorder: determining the role of moderators and strengths,
-137,Paul Pavlidis,Expansion of the QARS deficiency phenotype with report of a family with isolated supratentorial brain abnormalities,
-138,Paul Pavlidis,Microarray analysis of gene expression following the formalin test in the infant rat,
-139,Paul Pavlidis,Classification of genes using probabilistic models of microarray expression profiles.,
-140,Paul Pavlidis,Protease-Inhibitor Interaction Predictions: Lessons on the Complexity of Protein–Protein Interactions,
-141,Paul Pavlidis,Application and evaluation of automated semantic annotation of gene expression experiments,
-142,Paul Pavlidis,Meta-analysis of kindling-induced gene expression changes in the rat hippocampus,
-143,Paul Pavlidis,Estimating and correcting for off-target cellular contamination in brain cell type specific RNA-seq data,
-144,Paul Pavlidis,"Multi-parametric analysis of 57 SYNGAP1 variants reveal impacts on GTPase signaling, localization, and protein stability",
-145,Paul Pavlidis,Monitoring changes in the Gene Ontology and their impact on genomic data analysis,
-146,Paul Pavlidis,A p53-regulated apoptotic gene signature predicts treatment response and outcome in pediatric acute lymphoblastic leukemia,
-147,Paul Pavlidis,ModelMatcher: A scientist‐centric online platform to facilitate collaborations between stakeholders of rare and undiagnosed disease research,
-148,Paul Pavlidis,Metaanalysis of flawed expression profiling data leading to erroneous Parkinson's biomarker identification,
-149,Paul Pavlidis,Comparison of techniques for correlating survival and gene expression data from wild salmon,
-150,Paul Pavlidis,Bioinformatics techniques in microarray research: applied microarray data analysis using R and SAS software,
-151,Paul Pavlidis,Cluster analysis of genes with significant change in expression in cells conditioned to survive TBOOH,
-152,Paul Pavlidis,“Guilt by association” is not competitive with genetic association for identifying autism risk genes,
-153,Paul Pavlidis,ISDN2014_0418: DNA methylation changes in fetal alcohol spectrum disorder,
-154,Paul Pavlidis,"Interactive exploration, analysis, and visualization of complex phenome–genome datasets with ASPIREdb",
-155,Paul Pavlidis,Mega-analysis of gene expression in mouse models of Alzheimer’s Disease,
-156,Paul Pavlidis,Linking Wikidata to the Rest of the Semantic Web.,
-157,Paul Pavlidis,Cognitive Domains Function Complementation by NTNG Gene Paralogs,
-158,Paul Pavlidis,Effect of electroconvulsive shock and magnetic seizure on gene expression profiles in the prefrontal cortex of the rhesus monkey,
-159,Paul Pavlidis,Gist,
-160,Paul Pavlidis,In silico discovery of small molecules for efficient stem cell differentiation into definitive endoderm,
-161,Paul Pavlidis,A low affinity cis-regulatory BMP response element restricts target gene activation to subsets of Drosophila neurons,
-162,Paul Pavlidis,The Canadian Open Neuroscience Platform—An open science framework for the neuroscience community,
-163,Paul Pavlidis,Experiment level curation of transcriptional regulatory interactions in neurodevelopment,
-164,Paul Pavlidis,VariCarta: a comprehensive database of harmonized genomic variants found in ASD sequencing studies,
-165,Paul Pavlidis,Integration of neuroimaging and Microarray Datasets through Mapping and Model-Theoretic semantic Decomposition of Unstructured phenotypes,
-166,Paul Pavlidis,Gist: Support vector machine 1.0,
-167,Paul Pavlidis,Large-scale analysis of brain-wide electrophysiological diversity reveals novel characterization of mammalian neuron types,
-168,Paul Pavlidis,The NeuroDevNet Neuroinformatics Core.,
-169,Paul Pavlidis,Cross-scale mapping of gene expression to neuroimaging datasets via semantic decomposition,
-170,Paul Pavlidis,Open science in play and in tension with patent protections,
-171,Paul Pavlidis,Characterizing the targets of transcription regulators by aggregating ChIP-seq and perturbation expression data sets,
-172,Paul Pavlidis,ASSESSING THE UTILITY OF PHARMACOGENETIC TESTING IN A COHORT WITH TREATMENT-RESISTANT SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER,
-173,Paul Pavlidis,Cataloging the potential functional diversity of Cacna1e splice variants using long-read sequencing,
-174,Paul Pavlidis,TU71. SIGNIFICANT INCIDENCE OF RARE CHROMOSOMAL AND GENOMIC SEQUENCE VARIANTS IN HIGHLY TREATMENT-RESISTANT SCHIZOPHRENIA AND SCHIZOAFFECTIVE DISORDER,
-175,Paul Pavlidis,Single-Cell Genomic Strategies to Understand Psychopathological Processes in Suicide and Associated Psychopathology,
-176,Paul Pavlidis,Experiment level curation identifies high confidence transcriptional regulatory interactions in neurodevelopment,
-177,Paul Pavlidis,Can machine learning aid in identifying disease genes? The case of autism spectrum disorder,
-178,Paul Pavlidis,Single-Cell Genomic Strategies to Understand Psychopathological Processes in Depression and Suicide,
-179,Paul Pavlidis,Systematic phenomics analysis of ASD-associated genes reveals shared functions and parallel networks underlying reversible impairments in habituation learning,
-180,Paul Pavlidis,A critical assessment of single-cell transcriptomes sampled following patch-clamp electrophysiology,
-181,Paul Pavlidis,Cellular and Molecular Properties of Neurons: Modeling sources of interlaboratory variability in electrophysiological properties of mammalian neurons,
-182,Paul Pavlidis,11. Changes in Cellular Abundance Underlying Transcriptional Alterations in Psychiatric Patients,
-183,Paul Pavlidis,Interpreting Cell-Type-Specific Changes in Bulk Tissue Transcriptomics Data,
-184,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies [version 2; peer review,
-185,Paul Pavlidis,samples in transcriptomics studies [version 1; referees: 2,
-186,Paul Pavlidis,PS73. Changes in neuronal densities underlying transcriptional alterations in psychiatric patients,
-187,Paul Pavlidis,Changes in neuronal densities underlying transcriptional alterations in psychiatric patients,
-188,Paul Pavlidis,A6. 08 Transcriptome profiling by next generation sequencing of hematopoietic progenitors in murine systemic lupus erythematosus (SLE),
-189,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies [version 1; referees: awaiting,
-190,Paul Pavlidis,Application of large-scale text-mining and curation for extracting neuronal electrophysiology data,
-191,Paul Pavlidis,Gene coexpression analysis in the frontal cortex of bipolar patients and controls,
-192,Paul Pavlidis,Application and evaluation of automated methods to extract brain connectivity statements from free text,
-193,Paul Pavlidis,A Primate-Specific and Brain-Enriched miRNA is Involved in Depression and Regulates the Expression of GRM4,
-194,Paul Pavlidis,Large-Scale Network and Machine-Learning Analyses Reveal Functional Connectivity Between Temporal Pole and Hippocampus is Reduced in Social Anxiety Disorder and Increases …,
-195,Paul Pavlidis,"Data and design files for 6 public datasets used in"" Genome-wide expression profiling of schizophrenia using a large combined cohort"" Mistry, M. and Gillis, J. and Pavlidis, P …",
-196,Paul Pavlidis,"Data from"" Assessing identity, redundancy and confounds in Gene Ontology annotations over time""",
-197,Paul Pavlidis,"Cross-validation calculation from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",
-198,Paul Pavlidis,"Use case: The postsynaptic proteome, from"" Assessing identity, redundancy and confounds in Gene Ontology annotations over time""",
-199,Paul Pavlidis,"Corrigendum to Cortical functional connectivity decodes subconscious, task-irrelevant threat related emotion processing [Neuroimage 61/4 (2012) 1355–1363]",
-200,Paul Pavlidis,Follow up: Progress and challenges in the,
-201,Paul Pavlidis,PROGRAMMING OF NEURAL GENE EXPRESSION RESPONSE TO ADJUVANT-INDUCED ARTHRITIS BY PRENATAL DIET IN A RAT MODEL OF PRENATAL ALCOHOL EXPOSURE,
-202,Paul Pavlidis,Analysis of Gene Networks in Schizophrenia and the Challenge of Multifunctionality,
-203,Paul Pavlidis,Decoding Unattended Fearful Faces with Whole-Brain Correlations: An Approach to Identify Condition,
-204,Paul Pavlidis,ÔØ Å ÒÙ× Ö ÔØ,
-205,Paul Pavlidis,"Exceptional Edges matrices from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",
-206,Paul Pavlidis,"Gene Ontology matrices (with descriptions, IDs, etc) from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks. Gillis, J. and Pavlidis, P.(2012) PLoS …",
-207,Paul Pavlidis,"Gene lists from Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",
-208,Paul Pavlidis,P091 Neurocarta: online platform for integration and sharing of phenotypic and genomics information,
-209,Paul Pavlidis,Sharing Expression Profiling Data with Gemma,
-210,Paul Pavlidis,Analysis of Gene Expression Profiles in Schizophrenia Using a Large Combined Cohort,
-211,Paul Pavlidis,Differential Gene Expression in Schizophrenia and Bipolar Disorder in the Corpus Callosum,
-212,Paul Pavlidis,"Network data from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",
-213,Paul Pavlidis,"Gene lists from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",
-214,Paul Pavlidis,"Gene Ontology matrices from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",
-215,Paul Pavlidis,"Figure data from"" The role of indirect connections in gene networks in predicting function"" Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",
-216,Paul Pavlidis,Coexpression Based Gene Discovery in the Post-Synaptic Proteome,
-217,Paul Pavlidis,Crosslaboratory comparison of human postmortem brain expression profiling data,
-218,Paul Pavlidis,Identification of three distinct blood mononuclear cell gene expression signatures reveals heterogeneity of recent onset polyarticular juvenile idiopathic arthritis,
-219,Paul Pavlidis,GP 5.10 MAPK signaling pathway is commonly activated in hearts of mouse models of autosomal dominant and X-linked Emery–Dreifuss muscular dystrophy,
-220,Paul Pavlidis,Methodology for analyzing temporal patterns of differential coexpression using meta-analysis,
-221,Paul Pavlidis,Toll-like receptor 4 (TLR4)-dependent gene expression in a murine model of bacterially induced preterm labor.,
-222,Paul Pavlidis,Gene Expression in Lens Epithelial Cell Lines Conditioned to Survive H2O2 or TBHP,
-223,Paul Pavlidis,Cutting Edge: STAT6 Serves as a Positive and,
-224,Paul Pavlidis,GENERAL OBSTETRICS AND GYNECOLOGY-Fetus-Placenta-Newborn-A high-throughput study of gene expression in preterm labor with a subtractive microarray approach-The subtractive DNA …,
-225,Paul Pavlidis,Systematic phenomics analysis of ASD-associated genes reveals shared functions and,
-226,Paul Pavlidis,"Physiological, behavioral and molecular analysis of bang-sensitive paralytic mutants of Drosophila melanogaster",
-227,Paul Pavlidis,DROSOPHILA MUTATIONS AFFECTING ELECTRICAL EXCITABILITY,
-228,Paul Pavlidis,"Michael Smith Laboratories, University of British Columbia, Vancouver BC, Canada Department of Psychiatry, University of British Columbia, Vancouver BC, Canada Corresponding …",
-229,Paul Pavlidis,Multi-Model Functionalization of 106 PTEN Missense Mutations Identifies Multiple Molecular Mechanisms Underlying Protein Dysfunction,
-230,Paul Pavlidis,Availability: This version is available at: http://porto. polito. it/2649752/since: September 2016,
-231,Paul Pavlidis,Monitoring changes in the Gene Ontology and their impact on genomic data analysis,
-232,Paul Pavlidis,Classification of Clear Cell Sarcoma as Melanoma of Soft Parts by Genomic Profiling,
-233,Paul Pavlidis,SUPPLEMENTARY INFORMATION FOR,
-234,Paul Pavlidis,Neurocarta: online plaIorm for integration and sharing of phenotypic and genomics information,
-235,Paul Pavlidis,Neurocarta: aggregating and sharing disease-‐gene relations for the interpretation of genomics studies,
-236,Paul Pavlidis,Variant selection Gene exploration,
-237,Paul Pavlidis,Supplementary: Santiago & Potashkin (2015) reanalysis,
-238,Paul Pavlidis,Supplemental Data Zac1 Regulates an Imprinted Gene Network Critically Involved in the Control of Embryonic Growth,
-239,Paul Pavlidis,Basal and apical synapses of CA1 pyramidal cells employ different,
-240,Paul Pavlidis,NAR Molecular Biology Database Collection entry number 1476,
-241,Paul Pavlidis,LIVE DEMOS in INCF booth# 4112 atSfN in San Diego,
-242,Paul Pavlidis,Supplemental Data Histone Deacetylase Inhibition Elicits an Evolutionarily Conserved Self-Renewal Program in Embryonic Stem Cells,
-243,Paul Pavlidis,DATABASE Editorial Board 2010,
-244,Paul Pavlidis,Paul Pavlidis and William Stafford Noble Columbia Genome Center and Department of Computer Science Columbia University Corresponding author,
+,Name,Publications,Publication ID,Num Citations,Citation Links,Date
+0,Paul Pavlidis,Coexpression analysis of human genes across many microarray data sets,ataejQQAAAAJ:u-x6o8ySG0sC,928,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3853033960468672980,2004
+1,Paul Pavlidis,Molecular and functional heterogeneity of hyperpolarization-activated pacemaker channels in the mouse CNS,ataejQQAAAAJ:u5HHmVD_uO8C,695,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11688790525697323485,2000
+2,Paul Pavlidis,Altered brain microRNA biogenesis contributes to phenotypic deficits in a 22q11-deletion mouse model,ataejQQAAAAJ:Y0pCki6q_DkC,648,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142213804233081856,2008
+3,Paul Pavlidis,Zac1 regulates an imprinted gene network critically involved in the control of embryonic growth,ataejQQAAAAJ:RaRNlNDkcy8C,512,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9111679585473208246,2006
+4,Paul Pavlidis,Gene functional classification from heterogeneous data,ataejQQAAAAJ:d1gkVwhDpl0C,423,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1682818312392206991,2001
+5,Paul Pavlidis,Matrix2png: a utility for visualizing matrix data,ataejQQAAAAJ:Se3iqnhoufwC,409,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15702187555873751928,2003
+6,Paul Pavlidis,An expanded evaluation of protein function prediction methods shows an improvement in accuracy,ataejQQAAAAJ:0ju6dEALV5wC,389,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11039682064522886479,2016
+7,Paul Pavlidis,De novo mutations in schizophrenia implicate chromatin remodeling and support a genetic overlap with autism and intellectual disability,ataejQQAAAAJ:NAkivslCrNUC,377,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15018007376474881670,2014
+8,Paul Pavlidis,ErmineJ: tool for functional analysis of gene expression data sets,ataejQQAAAAJ:zYLM7Y9cAGgC,331,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17782248423221524612,2005
+9,Paul Pavlidis,Learning gene functional classifications from multiple data types,ataejQQAAAAJ:qjMakFHDy7sC,331,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13482938097807504040,2002
+10,Paul Pavlidis,Analysis of strain and regional variation in gene expression in mouse brain,ataejQQAAAAJ:9yKSN-GCB0IC,330,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15650178761019447949,2001
+11,Paul Pavlidis,Activation of MAPK pathways links LMNA mutations to cardiomyopathy in Emery-Dreifuss muscular dystrophy,ataejQQAAAAJ:3fE2CSJIrl8C,313,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3764480345297213457,2007
+12,Paul Pavlidis,Experimental comparison and cross-validation of the Affymetrix and Illumina gene expression analysis platforms,ataejQQAAAAJ:UeHWp8X0CEIC,307,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=978592532024620800,2005
+13,Paul Pavlidis,Inducible enhancement of memory storage and synaptic plasticity in transgenic mice expressing an inhibitor of ATF4 (CREB-2) and C/EBP proteins,ataejQQAAAAJ:eQOLeE2rZwMC,301,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5021123501037716516,2003
+14,Paul Pavlidis,miR-1202 is a primate-specific and brain-enriched microRNA involved in major depression and antidepressant treatment,ataejQQAAAAJ:7rVtnTjEZJgC,294,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6352788486492668253,2014
+15,Paul Pavlidis,Using the gene ontology for microarray data mining: a comparison of methods and application to age effects in human prefrontal cortex,ataejQQAAAAJ:2osOgNQ5qMEC,280,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5342110334009386982,2004
+16,Paul Pavlidis,Transcriptional and behavioral interaction between 22q11. 2 orthologs modulates schizophrenia-related phenotypes in mice,ataejQQAAAAJ:W7OEmFMy1HYC,279,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17614022616001139431,2005
+17,Paul Pavlidis,Hierarchical model of gene regulation by transforming growth factor β,ataejQQAAAAJ:IjCSPb-OGe4C,272,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11425730584427463922,2003
+18,Paul Pavlidis,Single-nucleus transcriptomics of the prefrontal cortex in major depressive disorder implicates oligodendrocyte precursor cells and excitatory neurons,ataejQQAAAAJ:7MdmnBSEV98C,248,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7759044571927982275,2020
+19,Paul Pavlidis,“Guilt by association” is the exception rather than the rule in gene networks,ataejQQAAAAJ:cFHS6HbyZ2cC,247,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5144102810132811248,2012
+20,Paul Pavlidis,Molecular aging in human prefrontal cortex is selective and continuous throughout adult life,ataejQQAAAAJ:5nxA0vEk-isC,244,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10147849419792093721,2005
+21,Paul Pavlidis,Classification and subtype prediction of adult soft tissue sarcoma by functional genomics,ataejQQAAAAJ:Tyk-4Ss8FVUC,244,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8096234907038728014,2003
+22,Paul Pavlidis,Gene ontology term overlap as a measure of gene functional similarity,ataejQQAAAAJ:mVmsd5A6BfQC,229,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17193427165030323819,2008
+23,Paul Pavlidis,Genomic signatures predict migration and spawning failure in wild Canadian salmon,ataejQQAAAAJ:hC7cP41nSMkC,222,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755018333339472915,2011
+24,Paul Pavlidis,"The Drosophila easily shocked gene: a mutation in a phospholipid synthetic pathway causes seizure, neuronal failure, and paralysis",ataejQQAAAAJ:roLk4NBRz8UC,210,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12096854624511344464,1994
+25,Paul Pavlidis,Pair recordings reveal all-silent synaptic connections and the postsynaptic expression of long-term potentiation,ataejQQAAAAJ:_FxGoFyzp5QC,207,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2625787045660899649,2001
+26,Paul Pavlidis,The Impact of Multifunctional Genes on,ataejQQAAAAJ:iH-uZ7U-co4C,200,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3222595966253899880,2011
+27,Paul Pavlidis,Classification of clear-cell sarcoma as a subtype of melanoma by genomic profiling,ataejQQAAAAJ:WF5omc3nYNoC,199,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5435313190906612030,2003
+28,Paul Pavlidis,Subtype‐specific peripheral blood gene expression profiles in recent‐onset juvenile idiopathic arthritis,ataejQQAAAAJ:M3ejUd6NZC8C,191,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10142110261266635027,2009
+29,Paul Pavlidis,The effect of replication on gene expression microarray experiments,ataejQQAAAAJ:LkGwnXOMwfcC,189,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1450473958995688173,2003
+30,Paul Pavlidis,Can we predict protein from mRNA levels?,ataejQQAAAAJ:PicmXY_cuE0C,186,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9212329650073381617,2017
+31,Paul Pavlidis,Transcriptomes in healthy and diseased gingival tissues,ataejQQAAAAJ:L8Ckcad2t8MC,184,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4314967027891568256,2008
+32,Paul Pavlidis,Using ANOVA for gene selection from microarray studies of the nervous system,ataejQQAAAAJ:0EnyYjriUFMC,180,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988085415251168032,2003
+33,Paul Pavlidis,Altered hippocampal transcript profile accompanies an age-related spatial memory deficit in mice,ataejQQAAAAJ:KlAtU1dfN6UC,178,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=963583763790439816,2004
+34,Paul Pavlidis,Histone deacetylase inhibition elicits an evolutionarily conserved self-renewal program in embryonic stem cells,ataejQQAAAAJ:EUQCXRtRnyEC,172,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14979809280385383343,2009
+35,Paul Pavlidis,Diverse epigenetic strategies interact to control epidermal differentiation,ataejQQAAAAJ:yD5IFk8b50cC,164,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563793546329092425,2012
+36,Paul Pavlidis,Support vector machine classification on the web,ataejQQAAAAJ:UebtZRa9Y70C,162,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8545490652274712883,2004
+37,Paul Pavlidis,Exploring gene expression data with class scores,ataejQQAAAAJ:ufrVoPGSRksC,162,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5826910294990975461,2002
+38,Paul Pavlidis,Network analyses reveal pervasive functional regulation between proteases in the human protease web,ataejQQAAAAJ:zZdEpRDacf4C,160,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17243486507267513788,2014
+39,Paul Pavlidis,Akt1 deficiency affects neuronal morphology and predisposes to abnormalities in prefrontal cortex functioning,ataejQQAAAAJ:MXK_kJrjxJIC,157,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15137530095471635842,2006
+40,Paul Pavlidis,Cross-laboratory analysis of brain cell type transcriptomes with applications to interpretation of bulk tissue data,ataejQQAAAAJ:sr8OKcTvXucC,151,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10517871607238046342,3188357162036991961",2017
+41,Paul Pavlidis,DNA methylation signature of human fetal alcohol spectrum disorder,ataejQQAAAAJ:VyewGSb6xwwC,150,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7784685813281372785,2016
+42,Paul Pavlidis,Activation of MAPK in hearts of EMD null mice: similarities between mouse models of X-linked and autosomal dominant Emery–Dreifuss muscular dystrophy,ataejQQAAAAJ:qxL8FJ1GzNcC,143,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11267629905178245592,2007
+43,Paul Pavlidis,Seizures and failures in the giant fiber pathway of Drosophila bang-sensitive paralytic mutants,ataejQQAAAAJ:Zph67rFs4hoC,134,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7249364810671481254,1995
+44,Paul Pavlidis,Relationships between gene expression and brain wiring in the adult rodent brain,ataejQQAAAAJ:jLZKTOxUWNYC,132,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15510164059624258095,2011
+45,Paul Pavlidis,Relationships between gene expression and brain wiring in the adult rodent brain,ataejQQAAAAJ:bEWYMUwI8FkC,132,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15510164059624258095,2011
+46,Paul Pavlidis,"Gemma: a resource for the reuse, sharing and meta-analysis of expression profiling data",ataejQQAAAAJ:pyW8ca7W8N0C,127,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503251687278363431,2012
+47,Paul Pavlidis,A Mendelian locus on chromosome 16 determines susceptibility to doxorubicin nephropathy in the mouse,ataejQQAAAAJ:Wp0gIr-vW9MC,127,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=904407346953694740,2005
+48,Paul Pavlidis,Gene expression profiling of depression and suicide in human prefrontal cortex,ataejQQAAAAJ:ULOm3_A8WrAC,126,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18245088424386947432,2004
+49,Paul Pavlidis,Transcriptomic responses to high water temperature in two species of P acific salmon,ataejQQAAAAJ:sSrBHYA8nusC,123,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12508152965153793701,2014
+50,Paul Pavlidis,Gene function analysis in complex data sets using ErmineJ,ataejQQAAAAJ:r0BpntZqJG4C,123,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8125950047131731514,2010
+51,Paul Pavlidis,Cutting edge: STAT6 serves as a positive and negative regulator of gene expression in IL-4-stimulated B lymphocytes,ataejQQAAAAJ:8k81kl-MbHgC,123,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13089014823599339260,2002
+52,Paul Pavlidis,Transcriptional changes in Huntington disease identified using genome-wide expression profiling and cross-platform analysis,ataejQQAAAAJ:4JMBOYKVnBMC,122,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5235275998236314129,2010
+53,Paul Pavlidis,Proteome TopFIND 3.0 with TopFINDer and PathFINDer: database and analysis tools for the association of protein termini to pre-and post-translational events,ataejQQAAAAJ:T64LSalLz9oC,110,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7406598845982226379,2015
+54,Paul Pavlidis,Consequences of high temperatures and premature mortality on the transcriptome and blood physiology of wild adult sockeye salmon (Oncorhynchus nerka),ataejQQAAAAJ:a0OBvERweLwC,108,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17779437474452049326,2012
+55,Paul Pavlidis,Gingival tissue transcriptomes identify distinct periodontitis phenotypes,ataejQQAAAAJ:-e1qr6N6M9MC,106,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3721142392566926489,2014
+56,Paul Pavlidis,Genome-wide expression profiling of schizophrenia using a large combined cohort,ataejQQAAAAJ:HoB7MX3m0LUC,103,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7540917643253450331,2013
+57,Paul Pavlidis,Predictability of human differential gene expression,ataejQQAAAAJ:-qiMcZ-2Z0YC,102,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16263838562128608128,2019
+58,Paul Pavlidis,Gene expression in juvenile arthritis and spondyloarthropathy: pro-angiogenic ELR+ chemokine genes relate to course of arthritis,ataejQQAAAAJ:kNdYIx-mwKoC,101,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14329870670704923928,12541422409106166467",2004
+59,Paul Pavlidis,PROMOTER RE ION-ASED CLASSIFICATION OF ENES,ataejQQAAAAJ:hqOjcs7Dif8C,100,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10951463848377257424,2001
+60,Paul Pavlidis,Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in subjects with bipolar disorder and schizophrenia,ataejQQAAAAJ:H1wcazwC3NUC,99,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14597941475402276771,6480703502114124893",2018
+61,Paul Pavlidis,Meta-analysis of human methylomes reveals stably methylated sequences surrounding CpG islands associated with high gene expression,ataejQQAAAAJ:jKffii5DqX8C,99,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017501433999799960,2014
+62,Paul Pavlidis,Molecular differences between chronic and aggressive periodontitis,ataejQQAAAAJ:tS2w5q8j5-wC,99,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8202563927717831252,2013
+63,Paul Pavlidis,Subgingival bacterial colonization profiles correlate with gingival tissue gene expression,ataejQQAAAAJ:hFOr9nPyWt4C,96,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15093242636585437839,2009
+64,Paul Pavlidis,β-Catenin/TCF/Lef controls a differentiation-associated transcriptional program in renal epithelial progenitors,ataejQQAAAAJ:QIV2ME_5wuYC,94,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3374348718277032356,2007
+65,Paul Pavlidis,The role of indirect connections in gene networks in predicting function,ataejQQAAAAJ:JV2RwH3_ST0C,88,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15162732414753597015,2011
+66,Paul Pavlidis,DNA methylation as a predictor of fetal alcohol spectrum disorder,ataejQQAAAAJ:vf0YIhSwahgC,83,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17622565527056228698,2018
+67,Paul Pavlidis,Synaptic transmission in pair recordings from CA3 pyramidal cells in organotypic culture,ataejQQAAAAJ:_kc_bZDykSQC,79,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5021476526442579813,1999
+68,Paul Pavlidis,Wikidata as a semantic framework for the Gene Wiki initiative,ataejQQAAAAJ:OjREftYh6kAC,78,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8804189853418255676,2016
+69,Paul Pavlidis,Bioinformatic analysis of autism positional candidate genes using biological databases and computational gene network prediction,ataejQQAAAAJ:4TOpqqG69KYC,72,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5738230455776368887,2003
+70,Paul Pavlidis,Gene expression signatures in polyarticular juvenile idiopathic arthritis demonstrate disease heterogeneity and offer a molecular classification of disease subsets,ataejQQAAAAJ:dhFuZR0502QC,71,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2801754791108869041,2009
+71,Paul Pavlidis,Sex genes for genomic analysis in human brain: internal controls for comparison of probe level data extraction.,ataejQQAAAAJ:YOwf2qJgpHMC,70,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6846977444017847775,2003
+72,Paul Pavlidis,Bias tradeoffs in the creation and analysis of protein–protein interaction networks,ataejQQAAAAJ:yG6gRY0c4kQC,68,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2441236308650043547,2014
+73,Paul Pavlidis,An ancestral haplotype defines susceptibility to doxorubicin nephropathy in the laboratory mouse,ataejQQAAAAJ:qUcmZB5y_30C,66,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16856786211675368227,2006
+74,Paul Pavlidis,"Assessing identity, redundancy and confounds in Gene Ontology annotations over time",ataejQQAAAAJ:xtRiw3GOFMkC,64,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5904033491983275920,2013
+75,Paul Pavlidis,EGAD: ultra-fast functional analysis of gene networks,ataejQQAAAAJ:YW75zINC-7AC,63,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7966415307870042139,2017
+76,Paul Pavlidis,Understanding the impact of 1q21. 1 copy number variant,ataejQQAAAAJ:blknAaTinKkC,63,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1716899909490716083,2011
+77,Paul Pavlidis,Meta-analysis of gene coexpression networks in the post-mortem prefrontal cortex of patients with schizophrenia and unaffected controls,ataejQQAAAAJ:vRqMK49ujn8C,62,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5091953455261786807,2013
+78,Paul Pavlidis,Periodontal therapy alters gene expression of peripheral blood monocytes,ataejQQAAAAJ:ZeXyd9-uunAC,60,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4000187375121224178,2007
+79,Paul Pavlidis,C-terminal truncation of IFN-γ inhibits proinflammatory macrophage responses and is deficient in autoimmune disease,ataejQQAAAAJ:jOyC0gq838wC,59,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=187106558560265467,2018
+80,Paul Pavlidis,"FTO, obesity and the adolescent brain",ataejQQAAAAJ:F2VeH06lQh8C,57,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10895682988573783848,2013
+81,Paul Pavlidis,Transcriptomic correlates of neuron electrophysiological diversity,ataejQQAAAAJ:MZHH0dlIDt0C,55,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17243835643504580548,2017
+82,Paul Pavlidis,Characterizing the state of the art in the computational assignment of gene function: lessons from the first critical assessment of functional annotation (CAFA),ataejQQAAAAJ:KxtntwgDAa4C,53,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16754406287041103219,2013
+83,Paul Pavlidis,Profiling placental and fetal DNA methylation in human neural tube defects,ataejQQAAAAJ:6biGW3np0psC,52,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2887905512786089551,2016
+84,Paul Pavlidis,A high-throughput study of gene expression in preterm labor with a subtractive microarray approach,ataejQQAAAAJ:4DMP91E08xMC,52,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12471762131639964520,2001
+85,Paul Pavlidis,Presynaptic protein kinase activity supports long-term potentiation at synapses between individual hippocampal neurons,ataejQQAAAAJ:9ZlFYXVOiuMC,50,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14596628139992189221,2000
+86,Paul Pavlidis,Meta‐analysis of gene expression in autism spectrum disorder,ataejQQAAAAJ:tYdqGa2HnWcC,49,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8356865311379839178,2015
+87,Paul Pavlidis,Decoding unattended fearful faces with whole-brain correlations: an approach to identify condition-dependent large-scale functional connectivity,ataejQQAAAAJ:TKTY8N1AUUAC,48,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17639637560782783934,2012
+88,Paul Pavlidis,Decoding unattended fearful faces with whole-brain correlations: an approach to identify condition-dependent large-scale functional connectivity,ataejQQAAAAJ:dfsIfKJdRG4C,48,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17639637560782783934,2012
+89,Paul Pavlidis,Systematic phenomics analysis of autism-associated genes reveals parallel networks underlying reversible impairments in habituation,ataejQQAAAAJ:VsjxJ5V0Y48C,47,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1428610970554617605,2020
+90,Paul Pavlidis,KCTD8 Gene and Brain Growth in Adverse Intrauterine Environment: A Genome-wide Association Study,ataejQQAAAAJ:pqnbT2bcN3wC,47,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12977877151596785006,2012
+91,Paul Pavlidis,Gene expression signatures in chronic and aggressive periodontitis: a pilot study,ataejQQAAAAJ:7PzlFSSx8tAC,47,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=639451624109889052,2004
+92,Paul Pavlidis,Transcriptome sequencing of the anterior cingulate in bipolar disorder: dysregulation of G protein-coupled receptors,ataejQQAAAAJ:FjmlLC3huY4C,46,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14063189486108144644,2015
+93,Paul Pavlidis,The path of no return—Truncated protein N‐termini and current ignorance of their genesis,ataejQQAAAAJ:STWYWLtSq6gC,46,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7953190564386018681,2015
+94,Paul Pavlidis,Basal and apical synapses of CA1 pyramidal cells employ different LTP induction mechanisms.,ataejQQAAAAJ:IWHjjKOFINEC,46,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4390967486701830646,1996
+95,Paul Pavlidis,Secondary neurotransmitter deficiencies in epilepsy caused by voltage-gated sodium channelopathies: a potential treatment target?,ataejQQAAAAJ:VJOaslTFpLQC,45,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15876571640641105545,2016
+96,Paul Pavlidis,"Cortical functional connectivity decodes subconscious, task-irrelevant threat-related emotion processing",ataejQQAAAAJ:4OULZ7Gr8RgC,45,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5534279968978073614,2012
+97,Paul Pavlidis,Differential amplification of gene expression in lens cell lines conditioned to survive peroxide stress,ataejQQAAAAJ:aqlVkmm33-oC,45,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1463299169682968842,2002
+98,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies,ataejQQAAAAJ:Nw5Pwe77XXAC,43,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8598869056755458299,2016
+99,Paul Pavlidis,Granulocyte chemotactic protein 2 (gcp‐2/cxcl6) complements interleukin‐8 in periodontal disease,ataejQQAAAAJ:-f6ydRqryjwC,42,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14597160734109224970,2009
+100,Paul Pavlidis,Using predictive specificity to determine when gene set analysis is biologically meaningful,ataejQQAAAAJ:haVc-jTD6xgC,41,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2739983865794134231,2017
+101,Paul Pavlidis,Systematic evaluation of isoform function in literature reports of alternative splicing,ataejQQAAAAJ:t_XbbNNkFXoC,40,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964725540018759576,2018
+102,Paul Pavlidis,Large-scale analysis of gene expression and connectivity in the rodent brain: insights through data integration,ataejQQAAAAJ:FP-YCU5gdjEC,40,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3570102668568303086,2011
+103,Paul Pavlidis,Large-Scale Analysis of Gene Expression and Connectivity in the Rodent Brain: Insights through Data Integration,ataejQQAAAAJ:BqipwSGYUEgC,40,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3570102668568303086,2011
+104,Paul Pavlidis,Prenatal alcohol exposure alters steady‐state and activated gene expression in the adult rat brain,ataejQQAAAAJ:XfMaBeGYgSgC,37,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14806424671139673131,2015
+105,Paul Pavlidis,miRNA and miRNA target genes in copy number variations occurring in individuals with intellectual disability,ataejQQAAAAJ:08ZZubdj9fEC,37,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8925651624068377458,2013
+106,Paul Pavlidis,Multi-model functionalization of disease-associated PTEN missense mutations identifies multiple molecular mechanisms underlying protein dysfunction,ataejQQAAAAJ:Y7HEs_YmcnEC,36,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10412390935479186732,2020
+107,Paul Pavlidis,Neuron-enriched gene expression patterns are regionally anti-correlated with oligodendrocyte-enriched patterns in the adult mouse and human brain,ataejQQAAAAJ:NhqRSupF_l8C,35,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10550411910294532959,2013
+108,Paul Pavlidis,Outcome of array CGH analysis for 255 subjects with intellectual disability and search for candidate genes using bioinformatics,ataejQQAAAAJ:_Qo2XoVZTnwC,34,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13357467341865740314,2010
+109,Paul Pavlidis,A cross-laboratory comparison of expression profiling data from normal human postmortem brain,ataejQQAAAAJ:isC4tDSrTZIC,34,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4552494810180847696,2010
+110,Paul Pavlidis,The Canadian rare diseases models and mechanisms (RDMM) network: connecting understudied genes to model organisms,ataejQQAAAAJ:t2c9fUEjrewC,33,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17483819778313035407,2020
+111,Paul Pavlidis,Informatics in neuroscience,ataejQQAAAAJ:R3hNpaxXUhUC,30,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13169930480851254650,2007
+112,Paul Pavlidis,Automated recognition of brain region mentions in neuroscience literature,ataejQQAAAAJ:SpbQ_efOBbkC,29,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11124830097552830910,2009
+113,Paul Pavlidis,Automated recognition of brain region mentions in neuroscience literature,ataejQQAAAAJ:k_IJM867U9cC,29,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11124830097552830910,2009
+114,Paul Pavlidis,Untangling the effects of cellular composition on coexpression analysis,ataejQQAAAAJ:kzhWOX1w8eAC,28,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13049818310265334829,2020
+115,Paul Pavlidis,Assessing transcriptome quality in patch-seq datasets,ataejQQAAAAJ:lZkERF9nS_wC,28,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18225997375383507942,2018
+116,Paul Pavlidis,Application and evaluation of automated methods to extract neuroanatomical connectivity statements from free text,ataejQQAAAAJ:bFI3QPDXJZMC,28,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8026304296000873936,2012
+117,Paul Pavlidis,Evaluation of connectivity map shows limited reproducibility in drug repositioning,ataejQQAAAAJ:ssyqJ5znRdsC,26,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16146589810128036494,2021
+118,Paul Pavlidis,Progress and challenges in the computational prediction of gene function using networks,ataejQQAAAAJ:_xSYboBqXhAC,26,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18258911272195044412,2012
+119,Paul Pavlidis,Text mining for neuroanatomy using WhiteText with an updated corpus and a new web application,ataejQQAAAAJ:CRQ797xmLJIC,25,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14540240652811208343,2015
+120,Paul Pavlidis,Transcriptomic correlates of electrophysiological and morphological diversity within and across excitatory and inhibitory neuron classes,ataejQQAAAAJ:7GbmjkRdlf4C,24,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5084656379240639950,2019
+121,Paul Pavlidis,Meta‐Analysis of Gene Expression Patterns in Animal Models of Prenatal Alcohol Exposure Suggests Role for Protein Synthesis Inhibition and Chromatin Remodeling,ataejQQAAAAJ:nazVBdFzvK0C,24,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12084279285490636397,2016
+122,Paul Pavlidis,Pitfalls in the application of gene-set analysis to genetics studies,ataejQQAAAAJ:WgBxaE7EUScC,24,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639911206510308009,2014
+123,Paul Pavlidis,Neurocarta: aggregating and sharing disease-gene relations for the neurosciences,ataejQQAAAAJ:P5F9QuxV20EC,24,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16887858375009135635,2013
+124,Paul Pavlidis,A methodology for the analysis of differential coexpression across the human lifespan,ataejQQAAAAJ:TFP_iSt0sucC,24,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2940524697439731633,2009
+125,Paul Pavlidis,Differential coexpression in human tissues and the confounding effect of mean expression levels,ataejQQAAAAJ:voxG-9qLvA4C,23,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9741674240936776509,2019
+126,Paul Pavlidis,Progress and challenges in the computational prediction of gene function using networks: 2012-2013 update,ataejQQAAAAJ:B3FOqHPlNUQC,23,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14628206556209656546,2013
+127,Paul Pavlidis,Sharing and reusing gene expression profiling data in neuroscience,ataejQQAAAAJ:j3f4tGmQtD8C,23,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7245486033453888967,2007
+128,Paul Pavlidis,VariCarta: A comprehensive database of harmonized genomic variants found in autism spectrum disorder sequencing studies,ataejQQAAAAJ:h6PnSEVdkykC,22,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10791078977110384064,2019
+129,Paul Pavlidis,Copy number variants (CNVs) analysis in a deeply phenotyped cohort of individuals with intellectual disability (ID),ataejQQAAAAJ:oKUQpTv76aEC,22,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17981896264828119931,2014
+130,Paul Pavlidis,Whole genome sequencing and variant discovery in the ASPIRE autism spectrum disorder cohort,ataejQQAAAAJ:pNwUjlbgJN8C,21,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17956735694325592116,2019
+131,Paul Pavlidis,Using text mining to link journal articles to neuroanatomical databases,ataejQQAAAAJ:hMod-77fHWUC,18,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6725381504423884771,2011
+132,Paul Pavlidis,Modeling sources of interlaboratory variability in electrophysiological properties of mammalian neurons,ataejQQAAAAJ:yREA-gn6pYwC,17,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17895438660916672442,2018
+133,Paul Pavlidis,Gist support vector machine and kernel principal components analysis software toolkit,ataejQQAAAAJ:qfTKKVVEecAC,17,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5858055195070228097,2002
+134,Paul Pavlidis,Combining microarray expression data and phylogenetic profiles to learn gene functional categories using support vector machines,ataejQQAAAAJ:TQgYirikUcIC,17,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11388643361103758387,2000
+135,Paul Pavlidis,Curation of over 10 000 transcriptomic studies to enable data reuse,ataejQQAAAAJ:m6EE8XZ9-ZkC,16,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=439027611792762334,2021
+136,Paul Pavlidis,Unpacking the heterogeneity of cognitive functioning in children and adolescents with fetal alcohol spectrum disorder: determining the role of moderators and strengths,ataejQQAAAAJ:ChsjQIg5EFEC,16,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069767115417395170,2017
+137,Paul Pavlidis,Expansion of the QARS deficiency phenotype with report of a family with isolated supratentorial brain abnormalities,ataejQQAAAAJ:Dq1jD5C1HUoC,16,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13460927444695486266,2015
+138,Paul Pavlidis,Microarray analysis of gene expression following the formalin test in the infant rat,ataejQQAAAAJ:HDshCWvjkbEC,16,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8198627688734198181,2005
+139,Paul Pavlidis,Classification of genes using probabilistic models of microarray expression profiles.,ataejQQAAAAJ:mB3voiENLucC,15,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=525911647471150807,2001
+140,Paul Pavlidis,Protease-Inhibitor Interaction Predictions: Lessons on the Complexity of Protein–Protein Interactions,ataejQQAAAAJ:DnwG-TGCLFkC,14,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11673152422294609114,2017
+141,Paul Pavlidis,Application and evaluation of automated semantic annotation of gene expression experiments,ataejQQAAAAJ:RHpTSmoSYBkC,14,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1205292504106207344,2009
+142,Paul Pavlidis,Meta-analysis of kindling-induced gene expression changes in the rat hippocampus,ataejQQAAAAJ:M05iB0D1s5AC,11,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16460320195801268505,2009
+143,Paul Pavlidis,Estimating and correcting for off-target cellular contamination in brain cell type specific RNA-seq data,ataejQQAAAAJ:RO_jAx7SIW8C,8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10986389750694637582,2021
+144,Paul Pavlidis,"Multi-parametric analysis of 57 SYNGAP1 variants reveal impacts on GTPase signaling, localization, and protein stability",ataejQQAAAAJ:bZtZ2VP7DRgC,8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11830972667084048708,2021
+145,Paul Pavlidis,Monitoring changes in the Gene Ontology and their impact on genomic data analysis,ataejQQAAAAJ:A36e8EsbUSoC,8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8860502054745422115,2018
+146,Paul Pavlidis,A p53-regulated apoptotic gene signature predicts treatment response and outcome in pediatric acute lymphoblastic leukemia,ataejQQAAAAJ:B-V0BYNYc0AC,8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9814683081041484391,2017
+147,Paul Pavlidis,ModelMatcher: A scientist‐centric online platform to facilitate collaborations between stakeholders of rare and undiagnosed disease research,ataejQQAAAAJ:-Xpk-jsdKCIC,7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1223891127964996157,2022
+148,Paul Pavlidis,Metaanalysis of flawed expression profiling data leading to erroneous Parkinson's biomarker identification,ataejQQAAAAJ:QDEWnZBrHwAC,7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2574808154639314654,2015
+149,Paul Pavlidis,Comparison of techniques for correlating survival and gene expression data from wild salmon,ataejQQAAAAJ:ns9cj8rnVeAC,7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2981948460707948646,2012
+150,Paul Pavlidis,Bioinformatics techniques in microarray research: applied microarray data analysis using R and SAS software,ataejQQAAAAJ:M3NEmzRMIkIC,7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9548493010888918195,2010
+151,Paul Pavlidis,Cluster analysis of genes with significant change in expression in cells conditioned to survive TBOOH,ataejQQAAAAJ:e5wmG9Sq2KIC,7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6157758689082724599,2004
+152,Paul Pavlidis,“Guilt by association” is not competitive with genetic association for identifying autism risk genes,ataejQQAAAAJ:6H908wyzF9cC,6,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1450531157760206314,2021
+153,Paul Pavlidis,ISDN2014_0418: DNA methylation changes in fetal alcohol spectrum disorder,ataejQQAAAAJ:Uwzdpet-joYC,6,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11205961551276373171,2015
+154,Paul Pavlidis,"Interactive exploration, analysis, and visualization of complex phenome–genome datasets with ASPIREdb",ataejQQAAAAJ:DNd5GTInPq4C,5,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9962702885416880140,2016
+155,Paul Pavlidis,Mega-analysis of gene expression in mouse models of Alzheimer’s Disease,ataejQQAAAAJ:bFFifWiqnPAC,4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7008318346335402024,2019
+156,Paul Pavlidis,Linking Wikidata to the Rest of the Semantic Web.,ataejQQAAAAJ:bjlTY1bLvvcC,4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=328082536061891669,2016
+157,Paul Pavlidis,Cognitive Domains Function Complementation by NTNG Gene Paralogs,ataejQQAAAAJ:wxMeWMEqLDMC,4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13414852717340069403,2015
+158,Paul Pavlidis,Effect of electroconvulsive shock and magnetic seizure on gene expression profiles in the prefrontal cortex of the rhesus monkey,ataejQQAAAAJ:maZDTaKrznsC,4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8372908349297872664,2007
+159,Paul Pavlidis,Gist,ataejQQAAAAJ:uwWlEQcBbEIC,4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9167998608733047106,2006
+160,Paul Pavlidis,In silico discovery of small molecules for efficient stem cell differentiation into definitive endoderm,ataejQQAAAAJ:uy1uh4dpqf0C,3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11862390957917537008,2023
+161,Paul Pavlidis,A low affinity cis-regulatory BMP response element restricts target gene activation to subsets of Drosophila neurons,ataejQQAAAAJ:Afq3j1Mvmz0C,3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6140615102668835524,2020
+162,Paul Pavlidis,The Canadian Open Neuroscience Platform—An open science framework for the neuroscience community,ataejQQAAAAJ:eRtW2U1rV1UC,2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12422403829194390298,2023
+163,Paul Pavlidis,Experiment level curation of transcriptional regulatory interactions in neurodevelopment,ataejQQAAAAJ:x-IcQEm-ju4C,2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6983884567568896364,2021
+164,Paul Pavlidis,VariCarta: a comprehensive database of harmonized genomic variants found in ASD sequencing studies,ataejQQAAAAJ:wmBOIy6d62IC,2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7183225541755595741,2019
+165,Paul Pavlidis,Integration of neuroimaging and Microarray Datasets through Mapping and Model-Theoretic semantic Decomposition of Unstructured phenotypes,ataejQQAAAAJ:vV6vV6tmYwMC,2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13377089337512647076,2009
+166,Paul Pavlidis,Gist: Support vector machine 1.0,ataejQQAAAAJ:btULBOGQ_gcC,2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16776138054694522667,
+167,Paul Pavlidis,Large-scale analysis of brain-wide electrophysiological diversity reveals novel characterization of mammalian neuron types,ataejQQAAAAJ:ihjKul7GT4YC,1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15117134148560615397,2015
+168,Paul Pavlidis,The NeuroDevNet Neuroinformatics Core.,ataejQQAAAAJ:J_g5lzvAfSwC,1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11882104209855037272,2011
+169,Paul Pavlidis,Cross-scale mapping of gene expression to neuroimaging datasets via semantic decomposition,ataejQQAAAAJ:zI9YInTrFVIC,1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9072469207154172644,2007
+170,Paul Pavlidis,Open science in play and in tension with patent protections,ataejQQAAAAJ:qStMeLs7OP8C,0,,2023
+171,Paul Pavlidis,Characterizing the targets of transcription regulators by aggregating ChIP-seq and perturbation expression data sets,ataejQQAAAAJ:0GenKHZIuKYC,0,,2023
+172,Paul Pavlidis,ASSESSING THE UTILITY OF PHARMACOGENETIC TESTING IN A COHORT WITH TREATMENT-RESISTANT SCHIZOPHRENIA OR SCHIZOAFFECTIVE DISORDER,ataejQQAAAAJ:FGlqWXlxCNkC,0,,2022
+173,Paul Pavlidis,Cataloging the potential functional diversity of Cacna1e splice variants using long-read sequencing,ataejQQAAAAJ:3u3nxgfnd-AC,0,,2022
+174,Paul Pavlidis,TU71. SIGNIFICANT INCIDENCE OF RARE CHROMOSOMAL AND GENOMIC SEQUENCE VARIANTS IN HIGHLY TREATMENT-RESISTANT SCHIZOPHRENIA AND SCHIZOAFFECTIVE DISORDER,ataejQQAAAAJ:4lQXLuH3RfAC,0,,2021
+175,Paul Pavlidis,Single-Cell Genomic Strategies to Understand Psychopathological Processes in Suicide and Associated Psychopathology,ataejQQAAAAJ:bb2qmbnIBKIC,0,,2021
+176,Paul Pavlidis,Experiment level curation identifies high confidence transcriptional regulatory interactions in neurodevelopment,ataejQQAAAAJ:vG0dlTq9_mQC,0,,2021
+177,Paul Pavlidis,Can machine learning aid in identifying disease genes? The case of autism spectrum disorder,ataejQQAAAAJ:qyZFqkKsXusC,0,,2020
+178,Paul Pavlidis,Single-Cell Genomic Strategies to Understand Psychopathological Processes in Depression and Suicide,ataejQQAAAAJ:LqrXEw5M15gC,0,,2020
+179,Paul Pavlidis,Systematic phenomics analysis of ASD-associated genes reveals shared functions and parallel networks underlying reversible impairments in habituation learning,ataejQQAAAAJ:0PPYGq5nos8C,0,,2019
+180,Paul Pavlidis,A critical assessment of single-cell transcriptomes sampled following patch-clamp electrophysiology,ataejQQAAAAJ:hWqix75wD0QC,0,,2018
+181,Paul Pavlidis,Cellular and Molecular Properties of Neurons: Modeling sources of interlaboratory variability in electrophysiological properties of mammalian neurons,ataejQQAAAAJ:kMwF0kOiZPMC,0,,2018
+182,Paul Pavlidis,11. Changes in Cellular Abundance Underlying Transcriptional Alterations in Psychiatric Patients,ataejQQAAAAJ:GjQuYujAsN4C,0,,2017
+183,Paul Pavlidis,Interpreting Cell-Type-Specific Changes in Bulk Tissue Transcriptomics Data,ataejQQAAAAJ:V2uI0bKpj5cC,0,,2017
+184,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies [version 2; peer review,ataejQQAAAAJ:Q7JuyPtTHGoC,0,,2016
+185,Paul Pavlidis,samples in transcriptomics studies [version 1; referees: 2,ataejQQAAAAJ:fJljFJTiP-AC,0,,2016
+186,Paul Pavlidis,PS73. Changes in neuronal densities underlying transcriptional alterations in psychiatric patients,ataejQQAAAAJ:V1pH50uuazEC,0,,2016
+187,Paul Pavlidis,Changes in neuronal densities underlying transcriptional alterations in psychiatric patients,ataejQQAAAAJ:YfTjWGZx48AC,0,,2016
+188,Paul Pavlidis,A6. 08 Transcriptome profiling by next generation sequencing of hematopoietic progenitors in murine systemic lupus erythematosus (SLE),ataejQQAAAAJ:bF3sBmdg0HEC,0,,2016
+189,Paul Pavlidis,Whose sample is it anyway? Widespread misannotation of samples in transcriptomics studies [version 1; referees: awaiting,ataejQQAAAAJ:CxegcQ4u50YC,0,,2016
+190,Paul Pavlidis,Application of large-scale text-mining and curation for extracting neuronal electrophysiology data,ataejQQAAAAJ:GufwhD5tNfUC,0,,2015
+191,Paul Pavlidis,Gene coexpression analysis in the frontal cortex of bipolar patients and controls,ataejQQAAAAJ:VBbLNo9YSJgC,0,,2014
+192,Paul Pavlidis,Application and evaluation of automated methods to extract brain connectivity statements from free text,ataejQQAAAAJ:mYPvCrJ_kzAC,0,,2014
+193,Paul Pavlidis,A Primate-Specific and Brain-Enriched miRNA is Involved in Depression and Regulates the Expression of GRM4,ataejQQAAAAJ:K3LRdlH-MEoC,0,,2013
+194,Paul Pavlidis,Large-Scale Network and Machine-Learning Analyses Reveal Functional Connectivity Between Temporal Pole and Hippocampus is Reduced in Social Anxiety Disorder and Increases …,ataejQQAAAAJ:738O_yMBCRsC,0,,2013
+195,Paul Pavlidis,"Data and design files for 6 public datasets used in"" Genome-wide expression profiling of schizophrenia using a large combined cohort"" Mistry, M. and Gillis, J. and Pavlidis, P …",ataejQQAAAAJ:0tRseZjC4qsC,0,,2013
+196,Paul Pavlidis,"Data from"" Assessing identity, redundancy and confounds in Gene Ontology annotations over time""",ataejQQAAAAJ:3xcwCnWquLEC,0,,2013
+197,Paul Pavlidis,"Cross-validation calculation from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",ataejQQAAAAJ:GK0_TXnxOL4C,0,,2013
+198,Paul Pavlidis,"Use case: The postsynaptic proteome, from"" Assessing identity, redundancy and confounds in Gene Ontology annotations over time""",ataejQQAAAAJ:f14mYpCygl4C,0,,2013
+199,Paul Pavlidis,"Corrigendum to Cortical functional connectivity decodes subconscious, task-irrelevant threat related emotion processing [Neuroimage 61/4 (2012) 1355–1363]",ataejQQAAAAJ:CHSYGLWDkRkC,0,,2013
+200,Paul Pavlidis,Follow up: Progress and challenges in the,ataejQQAAAAJ:vMKmsr18IoIC,0,,2012
+201,Paul Pavlidis,PROGRAMMING OF NEURAL GENE EXPRESSION RESPONSE TO ADJUVANT-INDUCED ARTHRITIS BY PRENATAL DIET IN A RAT MODEL OF PRENATAL ALCOHOL EXPOSURE,ataejQQAAAAJ:p2g8aNsByqUC,0,,2012
+202,Paul Pavlidis,Analysis of Gene Networks in Schizophrenia and the Challenge of Multifunctionality,ataejQQAAAAJ:Tiz5es2fbqcC,0,,2012
+203,Paul Pavlidis,Decoding Unattended Fearful Faces with Whole-Brain Correlations: An Approach to Identify Condition,ataejQQAAAAJ:IEPzPICaOQQC,0,,2012
+204,Paul Pavlidis,ÔØ Å ÒÙ× Ö ÔØ,ataejQQAAAAJ:SrjOrk_WDzMC,0,,2012
+205,Paul Pavlidis,"Exceptional Edges matrices from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",ataejQQAAAAJ:ahKOoLCzQxcC,0,,2012
+206,Paul Pavlidis,"Gene Ontology matrices (with descriptions, IDs, etc) from"" Guilt by Association"" Is the Exception Rather Than the Rule in Gene Networks. Gillis, J. and Pavlidis, P.(2012) PLoS …",ataejQQAAAAJ:SVv6S0jguFwC,0,,2012
+207,Paul Pavlidis,"Gene lists from Gillis, J. and Pavlidis, P.(2012) PLoS Computational Biology, 8 (3).",ataejQQAAAAJ:oy0z8GdgWhYC,0,,2012
+208,Paul Pavlidis,P091 Neurocarta: online platform for integration and sharing of phenotypic and genomics information,ataejQQAAAAJ:w9EjUEod0xMC,0,,2012
+209,Paul Pavlidis,Sharing Expression Profiling Data with Gemma,ataejQQAAAAJ:SeFeTyx0c_EC,0,,2012
+210,Paul Pavlidis,Analysis of Gene Expression Profiles in Schizophrenia Using a Large Combined Cohort,ataejQQAAAAJ:uWQEDVKXjbEC,0,,2011
+211,Paul Pavlidis,Differential Gene Expression in Schizophrenia and Bipolar Disorder in the Corpus Callosum,ataejQQAAAAJ:SP6oXDckpogC,0,,2011
+212,Paul Pavlidis,"Network data from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",ataejQQAAAAJ:6UW509z96lEC,0,,2011
+213,Paul Pavlidis,"Gene lists from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",ataejQQAAAAJ:uhm167Bumv8C,0,,2011
+214,Paul Pavlidis,"Gene Ontology matrices from The role of indirect connections in gene networks in predicting function Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",ataejQQAAAAJ:6XuKD3u7GOoC,0,,2011
+215,Paul Pavlidis,"Figure data from"" The role of indirect connections in gene networks in predicting function"" Gillis, J. and Pavlidis, P.(2011) Bioinformatics, 27 (13). pp. 1860-1866.",ataejQQAAAAJ:EpUiTTZsFn8C,0,,2011
+216,Paul Pavlidis,Coexpression Based Gene Discovery in the Post-Synaptic Proteome,ataejQQAAAAJ:UxriW0iASnsC,0,,2009
+217,Paul Pavlidis,Crosslaboratory comparison of human postmortem brain expression profiling data,ataejQQAAAAJ:70eg2SAEIzsC,0,,2009
+218,Paul Pavlidis,Identification of three distinct blood mononuclear cell gene expression signatures reveals heterogeneity of recent onset polyarticular juvenile idiopathic arthritis,ataejQQAAAAJ:OU6Ihb5iCvQC,0,,2008
+219,Paul Pavlidis,GP 5.10 MAPK signaling pathway is commonly activated in hearts of mouse models of autosomal dominant and X-linked Emery–Dreifuss muscular dystrophy,ataejQQAAAAJ:RYcK_YlVTxYC,0,,2007
+220,Paul Pavlidis,Methodology for analyzing temporal patterns of differential coexpression using meta-analysis,ataejQQAAAAJ:nnVijz9KPVYC,0,,2005
+221,Paul Pavlidis,Toll-like receptor 4 (TLR4)-dependent gene expression in a murine model of bacterially induced preterm labor.,ataejQQAAAAJ:u9iWguZQMMsC,0,,2004
+222,Paul Pavlidis,Gene Expression in Lens Epithelial Cell Lines Conditioned to Survive H2O2 or TBHP,ataejQQAAAAJ:ZHo1McVdvXMC,0,,2002
+223,Paul Pavlidis,Cutting Edge: STAT6 Serves as a Positive and,ataejQQAAAAJ:3eH_u9Md8IkC,0,,2002
+224,Paul Pavlidis,GENERAL OBSTETRICS AND GYNECOLOGY-Fetus-Placenta-Newborn-A high-throughput study of gene expression in preterm labor with a subtractive microarray approach-The subtractive DNA …,ataejQQAAAAJ:YFjsv_pBGBYC,0,,2001
+225,Paul Pavlidis,Systematic phenomics analysis of ASD-associated genes reveals shared functions and,ataejQQAAAAJ:6b9k5MOVaqUC,0,,1995
+226,Paul Pavlidis,"Physiological, behavioral and molecular analysis of bang-sensitive paralytic mutants of Drosophila melanogaster",ataejQQAAAAJ:O3NaXMp0MMsC,0,,1994
+227,Paul Pavlidis,DROSOPHILA MUTATIONS AFFECTING ELECTRICAL EXCITABILITY,ataejQQAAAAJ:_sH1KHQ1xKcC,0,,1993
+228,Paul Pavlidis,"Michael Smith Laboratories, University of British Columbia, Vancouver BC, Canada Department of Psychiatry, University of British Columbia, Vancouver BC, Canada Corresponding …",ataejQQAAAAJ:AyW1NBs4p6IC,0,,
+229,Paul Pavlidis,Multi-Model Functionalization of 106 PTEN Missense Mutations Identifies Multiple Molecular Mechanisms Underlying Protein Dysfunction,ataejQQAAAAJ:bsCEZ5n1K3cC,0,,
+230,Paul Pavlidis,Availability: This version is available at: http://porto. polito. it/2649752/since: September 2016,ataejQQAAAAJ:Dnd9Dw9jpwAC,0,,
+231,Paul Pavlidis,Monitoring changes in the Gene Ontology and their impact on genomic data analysis,ataejQQAAAAJ:FGCrkofroJsC,0,,
+232,Paul Pavlidis,Classification of Clear Cell Sarcoma as Melanoma of Soft Parts by Genomic Profiling,ataejQQAAAAJ:cInq4TRmCz8C,0,,
+233,Paul Pavlidis,SUPPLEMENTARY INFORMATION FOR,ataejQQAAAAJ:2hxEYnSErgUC,0,,
+234,Paul Pavlidis,Neurocarta: online plaIorm for integration and sharing of phenotypic and genomics information,ataejQQAAAAJ:L2DjCdFNi3gC,0,,
+235,Paul Pavlidis,Neurocarta: aggregating and sharing disease-‐gene relations for the interpretation of genomics studies,ataejQQAAAAJ:uoIO7Ko97q4C,0,,
+236,Paul Pavlidis,Variant selection Gene exploration,ataejQQAAAAJ:wXCFTzxW9NYC,0,,
+237,Paul Pavlidis,Supplementary: Santiago & Potashkin (2015) reanalysis,ataejQQAAAAJ:M9uBOdsrCRgC,0,,
+238,Paul Pavlidis,Supplemental Data Zac1 Regulates an Imprinted Gene Network Critically Involved in the Control of Embryonic Growth,ataejQQAAAAJ:7iKzEIWBYlQC,0,,
+239,Paul Pavlidis,Basal and apical synapses of CA1 pyramidal cells employ different,ataejQQAAAAJ:K0fIQ6b0NmsC,0,,
+240,Paul Pavlidis,NAR Molecular Biology Database Collection entry number 1476,ataejQQAAAAJ:q736b1r0g6UC,0,,
+241,Paul Pavlidis,LIVE DEMOS in INCF booth# 4112 atSfN in San Diego,ataejQQAAAAJ:9hYaGTfn7EkC,0,,
+242,Paul Pavlidis,Supplemental Data Histone Deacetylase Inhibition Elicits an Evolutionarily Conserved Self-Renewal Program in Embryonic Stem Cells,ataejQQAAAAJ:prKdS1S5QkMC,0,,
+243,Paul Pavlidis,DATABASE Editorial Board 2010,ataejQQAAAAJ:b0M2c_1WBrUC,0,,
+244,Paul Pavlidis,Paul Pavlidis and William Stafford Noble Columbia Genome Center and Department of Computer Science Columbia University Corresponding author,ataejQQAAAAJ:NMxIlDl6LWMC,0,,
