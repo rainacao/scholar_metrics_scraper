@@ -26,3 +26,20 @@ Read port: 53807
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 DevTools listening on ws://127.0.0.1:53799/devtools/browser/3165a3d9-c323-4cc5-882d-96d1dd6de4a3
 1698092391536	Marionette	INFO	Stopped listening on port 53807
+1698345441319	geckodriver	INFO	Listening on 127.0.0.1:50888
+1698345441791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/47/6bm96nxd0ks5x370bsvkpghh0000gn/T/rust_mozprofile9NFSam"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698345442311	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698345442509	Marionette	INFO	Listening on port 50897
+WebDriver BiDi listening on ws://127.0.0.1:50889
+Read port: 50897
+1698345442644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50889/devtools/browser/97ebcd5c-aa0e-4230-8406-89ec5d0a3ba1
+1698345444088	Marionette	INFO	Stopped listening on port 50897
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
