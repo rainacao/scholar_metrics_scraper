@@ -43,3 +43,17 @@ DevTools listening on ws://127.0.0.1:50889/devtools/browser/97ebcd5c-aa0e-4230-8
 console.error: services.settings: 
   main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1698686598782	geckodriver	INFO	Listening on 127.0.0.1:62788
+1698686599183	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/47/6bm96nxd0ks5x370bsvkpghh0000gn/T/rust_mozprofileZj8nYv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698686599824	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698686600025	Marionette	INFO	Listening on port 62801
+WebDriver BiDi listening on ws://127.0.0.1:62789
+Read port: 62801
+1698686600163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62789/devtools/browser/187d0156-02be-48aa-9551-4b9d474c52e3
+1698686601602	Marionette	INFO	Stopped listening on port 62801
