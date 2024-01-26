@@ -1,5 +1,5 @@
-Authorlist Name|OpenAlex Name|Author ID|cited_by_count|works_count|h_index|i10_index|Affiliation|ORCID|Research Areas|Warning
-Tim H. Murphy|Timothy H. Murphy|A5072258662|15243|237|67|137|University of British Columbia|0000-0002-0093-4490|['Biology', 'Medicine', 'Psychology', 'Chemistry', 'Physics', 'Computer science', 'Engineering']|
+Authorlist Name|OpenAlex Name|Author ID|cited_by_count|works_count|h_index|i10_index|Affiliation|ORCID|Research Areas|Warning|works link (manually added)
+Tim H. Murphy|Timothy H. Murphy|A5072258662|15243|237|67|137|University of British Columbia|0000-0002-0093-4490|['Biology', 'Medicine', 'Psychology', 'Chemistry', 'Physics', 'Computer science', 'Engineering']|https://openalex.org/works?sort=cited_by_count%3Adesc&column=display_name,publication_year,type,open_access.is_oa,cited_by_count&page=1&filter=authorships.author.id%3AA5072258662
 Annie Ciernia|Annie Vogel Ciernia|A5020772658|1607|47|20|22|University of British Columbia|0000-0002-3406-3806|['Biology', 'Chemistry', 'Medicine', 'Psychology']|
 Brian MacVicar|Brian A. MacVicar|A5030192413|16130|151|65|117|University of British Columbia|0000-0003-4596-4623|['Biology', 'Medicine', 'Psychology', 'Chemistry', 'Physics', 'Materials science']|
 Fidel Vila-Rodriguez|Fidel Vila‐Rodriguez|A5048377473|3534|177|28|73|University of British Columbia|0000-0002-8273-8820|['Psychology', 'Medicine', 'Biology', 'Computer science', 'Economics', 'Mathematics']|
